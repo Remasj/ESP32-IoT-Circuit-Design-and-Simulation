@@ -1,4 +1,4 @@
-# ESP32-Circuit-with-pushbutton-and-LED
+# ESP32-Circuit-Design-and-Simulation
 # Introduction
 
 The circuit presented below is built using the ESP32 micrcontroller via Wokwi.

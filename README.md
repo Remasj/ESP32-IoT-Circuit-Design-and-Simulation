@@ -4,7 +4,7 @@
 The circuit presented below is built using the ESP32 micrcontroller via Wokwi.
 
 
-__Purpose:__ to control an LED's state by pressing the pushbutton. The push button is an ideal electronic component for its ease fo operation, reliability, fast response time, visual feedback, and adaptability. Additionally, it allows the LED to not be on all the time which makes it cost-effective and energy-saving too.
+__Purpose:__ to control an LED's state by pressing the pushbutton. The push button is an ideal electronic component for its ease of operation, reliability, fast response time, visual feedback, and adaptability. Additionally, it allows the LED to not be on all the time which makes it cost-effective and energy-saving too.
 
 # My circuit
 <img width="1373" alt="Screenshot 2024-07-13 at 10 59 33 PM" src="https://github.com/user-attachments/assets/cc13b8f3-d9a2-44ef-ad23-a57b128543ab">
